@@ -26,8 +26,8 @@ body {
 body
 
 .container {
-    width: width=device-width;
-    height: height=device-width;
+    width: device-width;
+    height: device-width;
     display: flex;
     justify-content: center;
     align-items: center;
