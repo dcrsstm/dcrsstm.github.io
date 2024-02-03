@@ -35,7 +35,6 @@ function showMessage(response) {
     // Update text content, show message, and change image source to "dance.gif"
     const yesMessage = document.getElementById("question");
     yesMessage.textContent = "See you on the 14th Munchkeen😘";
-    yesMessage.textContent = "I Love You";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
     document.getElementsByClassName("image")[0].src = "images/dance.gif";
