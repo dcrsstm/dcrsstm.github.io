@@ -1,6 +1,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, achievements, and experiences as I pursue my journey in Information Technology. The website is designed to highlight my academic accomplishments, technical expertise, and creative projects, all while providing a glimpse into who I am beyond the professional sphere.
 
 FEATURES
+
 About Section: Learn more about my background, aspirations, and the values that drive me.
 Achievements and Activities Section: A showcase of the milestones I’ve reached, from academic honors to leadership roles and awards.
 Skills Section: A detailed list of my technical and personal skills, including IT troubleshooting, communication, and time management.
