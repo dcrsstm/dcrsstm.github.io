@@ -13,6 +13,7 @@ Hobbies and Interests Section: A fun insight into my favorite pastimes, from gam
 Contact Section: Simple and direct ways to reach out to me for collaborations, projects, or just to connect.
 
 Purpose
+
 This website serves as a digital representation of my growth and potential. It is a platform for me to demonstrate my technical skills, creativity, and dedication to learning. Whether you're a potential employer, a collaborator, or just someone curious to know more about me, I hope this site provides a clear view of my journey and aspirations.
 
 Technologies Used:
